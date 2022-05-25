@@ -1,0 +1,25 @@
+
+  [
+    {
+      "foodName":"Burrito",
+      "foodType":"Lunch",
+      "calories":"975"
+    },
+    {
+      "foodName":"Pasta",
+      "foodType":"Dinner",
+      "calories":"945"
+    },
+    {
+      "foodName":"Toast",
+      "foodType":"Breakfast",
+      "calories":"200"
+    },
+    {
+      "foodName":"Tea",
+      "foodType":"Snacks",
+      "calories":"965"
+    }
+  ]
+
+

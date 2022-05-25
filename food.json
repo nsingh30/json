@@ -1,0 +1,32 @@
+{
+  "foods":[
+    {
+      "foodName":"Burrito",
+      "foodType":"Lunch",
+      "image":"",
+      "calories":"975",
+      "ingredients": ["chicken", "rice"]
+    },
+    {
+      "foodName":"Pasta",
+      "foodType":"Dinner",
+      "image":"",
+      "calories":"945",
+      "ingredients": ["onion", "spinach"]
+    },
+    {
+      "foodName":"Toast",
+      "foodType":"Breakfast",
+      "image":"",
+      "calories":"200",
+      "ingredients": ["bread", "butter"]
+    },
+    {
+      "foodName":"Tea",
+      "foodType":"Snacks",
+      "image":"",
+      "calories":"965",
+      "ingredients": ["milk", "tea"]
+    }
+  ]
+}
